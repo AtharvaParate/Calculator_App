@@ -1,6 +1,6 @@
-# calculator.github.io
+# Calculator_App
  
-is a device or program that performs arithmetic operations. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced operations like square roots, exponents, and logarithms.
+Calculator is a device or program that performs arithmetic operations. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced operations like square roots, exponents, and logarithms.
 
 Features
 
@@ -19,6 +19,7 @@ Usage
 Contribution
 If you wish to contribute to the development of this calculator, please fork the repository and create a pull request with your changes.
 
+Direct Website: https://bright-beijinho-3f61f9.netlify.app
 
 Contact
 For any questions or concerns, please contact runningflame226@gmail.com
