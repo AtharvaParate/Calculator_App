@@ -21,4 +21,4 @@ If you wish to contribute to the development of this calculator, please fork the
 
 
 Contact
-For any questions or concerns, please contact [email address or username].
+For any questions or concerns, please contact runningflame226@gmail.com
